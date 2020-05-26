@@ -1,0 +1,12 @@
+
+.image {
+	float:right;
+}
+.text-wraper {
+	width: 500px;
+	float: left;
+}
+
+.clear {
+	clear: both;
+}
